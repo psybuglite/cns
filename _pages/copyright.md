@@ -1,11 +1,11 @@
 ---
 title: Copyright
-permalink: /copyright/
+permalink: "/copyright/"
 layout: page
 description: CNS Marine Nigeria copyrught
 headline:
   image: "/uploads/privacy-policy.jpg"
-  title: "Copyright"
+  title: Copyright
 ---
 
 ### Photography, Graphics, Videos and Multimedia

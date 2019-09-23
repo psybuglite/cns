@@ -1,11 +1,12 @@
 ---
 title: Terms of Use
-permalink: /terms-of-use/
+permalink: "/terms-of-use/"
 layout: page
-description: CNS Marine Nigeria terms of use for this site, use of services information, and contact with respect to privacy concerns.
+description: CNS Marine Nigeria terms of use for this site, use of services information,
+  and contact with respect to privacy concerns.
 headline:
   image: "/uploads/privacy-policy.jpg"
-  title: "Terms of Use"
+  title: Terms of Use
 ---
 
 ### ACCEPTANCE OF TERMS

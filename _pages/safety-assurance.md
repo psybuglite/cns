@@ -1,21 +1,21 @@
 ---
 title: Safety Assurance
-permalink: /about/safety-assurance/
+permalink: "/about/safety-assurance/"
 layout: about
 description: We are commited to excellent service with a drive to accomplish our goals.
 headline:
   image: "/uploads/safety.jpg"
-  title: "Safety Assurance"
+  title: Safety Assurance
 show_on_about: true
 client_logos:
-  - /uploads/client-1.png
-  - /uploads/client-2.png
-  - /uploads/client-3.png
-  - /uploads/client-4.png
-  - /uploads/client-5.png
-  - /uploads/client-6.png
-  - /uploads/client-7.png
-  - /uploads/client-8.png
+- "/uploads/client-1.png"
+- "/uploads/client-2.png"
+- "/uploads/client-3.png"
+- "/uploads/client-4.png"
+- "/uploads/client-5.png"
+- "/uploads/client-6.png"
+- "/uploads/client-7.png"
+- "/uploads/client-8.png"
 left_content:
   title: Safety Assurance
   body: |-

@@ -1,11 +1,12 @@
 ---
 title: Privacy Policy
-permalink: /privacy-policy/
+permalink: "/privacy-policy/"
 layout: page
-description: CNS Marine Nigeria privacy policy, security information, and contact with respect to privacy concerns.
+description: CNS Marine Nigeria privacy policy, security information, and contact
+  with respect to privacy concerns.
 headline:
   image: "/uploads/privacy-policy.jpg"
-  title: "Privacy Policy"
+  title: Privacy Policy
 ---
 
 At CNS we respect your right to privacy and we understand that, as a visitor to cnsmarine-nigeria.com, you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of cnsmarine-nigeria.com, download free software, request information, or subscribe to CNS Edge newsletter.
